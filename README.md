@@ -3,4 +3,4 @@ just another repository
 
 Hi friends,
 
-I am keen interest in programming and do not have a traditional computer science background but aspiring to be a fullstack developer.
+I have a keen interest in programming and do not have a traditional computer science background but aspiring to be a fullstack developer.
